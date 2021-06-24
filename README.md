@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Shea</h1>
-<h3 align="center"> I'm terrible at this</h3>
+<h3 align="center"> please follow me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=possiblyshea&label=Profile%20views&color=0e75b6&style=flat" alt="possiblyshea" /> </p>
 
