@@ -1,9 +1,7 @@
 <h1 align="center">Hi! I'm Shea</h1>
-<h3 align="center">I use python and HTML, I am currently learning C#</h3>
+<h3 align="center"> I'm terrible at this</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=possiblyshea&label=Profile%20views&color=0e75b6&style=flat" alt="possiblyshea" /> </p>
-
-- I'm currently working on **Goose Bot for discord**
 
 
 <h3 align="left">Languages and Tools:</h3>
