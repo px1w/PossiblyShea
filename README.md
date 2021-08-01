@@ -1,5 +1,4 @@
-<h1 align="center">Hi! I'm Shea</h1>
-<h3 align="center">Can't decide what to do</h3>
+<h1 align="center">I am shea</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=possiblyshea&label=Profile%20views&color=0e75b6&style=flat" alt="possiblyshea" /> </p>
 
