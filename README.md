@@ -5,7 +5,7 @@
                 -*******#%%-            Age: 14
                     =+****#%+.          Pronouns: Suck/Ur/Ma
               .::::::.      :=*##*      Languages: Python, JavaScript, Ruby, Java, C#
-         .:=+++++========---:-**-       Tools: Node, React, Express, Discord.py, Discord.js, DiscordJDA
+         .:=+++++========---:-**-       Tools: Node, React, Express, Discord.py, Discord.js, DiscordJDA, Rails, Spring, Flask
        -++++=-:::::::::::----=          Hobbies: Coding & Football
      -+++-:::::::::::::::::::.          Instruments: Learning Piano
    .+++-:::::::::::::::::::::           Favourite Projects:
