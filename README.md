@@ -9,7 +9,7 @@
        -++++=-:::::::::::----=          Hobbies: Coding & Football
      -+++-:::::::::::::::::::.          Instruments: Learning Piano
    .+++-:::::::::::::::::::::           Favourite Projects:
-  :++=::::::::::::::::::::::.             - AnimeXY: An W.I.P anime streaming service hosted on animexy.live
+  :++=::::::::::::::::::::::.             - AnimeXY: An W.I.P anime streaming service 
   ++-:::::::::::::::::::::::.             - Solaris-Core: A core for my minecraft smp server
  :+=::::::::::::::::::::::::              - Jebediah: A feature rich discord bot made using Discord.py
  -+::::::::::::::::::::::::             Contact:
