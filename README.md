@@ -9,7 +9,7 @@
        -++++=-:::::::::::----=          Hobbies: Coding & Football
      -+++-:::::::::::::::::::.          Instruments: Learning Piano
    .+++-:::::::::::::::::::::           Favourite Projects:
-  :++=::::::::::::::::::::::.             - AnimeXY: An W.I.P anime streaming service 
+  :++=::::::::::::::::::::::.             - PhoenixSpigot: A custom spigot fork for 1.8 that includes many optimizations 
   ++-:::::::::::::::::::::::.             - Solaris-Core: A core for my minecraft smp server
  :+=::::::::::::::::::::::::              - Jebediah: A feature rich discord bot made using Discord.py
  -+::::::::::::::::::::::::             Contact:
